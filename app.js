@@ -11,6 +11,7 @@ app.use(express.static('./public'));
 
 app.get('/', (req, res) => res.render('index'));
 
+app.post('/upload');
 const port = 5000;
 
 app.listen(port, () => {
