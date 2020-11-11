@@ -1,0 +1,22 @@
+{
+  "name": "file-upload-multer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adeem1234/fileUploadMulterMongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adeem1234/fileUploadMulterMongoose/issues"
+  },
+  "homepage": "https://github.com/Adeem1234/fileUploadMulterMongoose#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
