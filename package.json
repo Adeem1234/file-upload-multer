@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Adeem1234/fileUploadMulterMongoose#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
   }
 }
